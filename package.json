@@ -1,0 +1,7 @@
+{
+  "name": "random-student",
+  "version": "1.0.0",
+  "description": "CLI pour tirer un étudiant au hasard.",
+  "main": "index.js",
+  "license": "MIT"
+}
